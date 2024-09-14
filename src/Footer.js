@@ -15,7 +15,7 @@ const Footer = () => {
             <p className="">Our Website will help you to know the correct and complete raodmap of courses with direction. Find the best solutions.</p>
           </div>
           <ul className="list-unstyled d-flex">
-        <li className="ms-3"><a className="link-dark" href="https://www.linkedin.com/in/rameshwar" target="_blank"><BsLinkedin style={{color:"#fff", fontSize:"22px"}}/></a></li>
+        <li className="ms-3"><a className="link-dark" href="https://www.linkedin.com/in/rameshwar-tiwari-b259401ba" target="_blank"><BsLinkedin style={{color:"#fff", fontSize:"22px"}}/></a></li>
         <li className="ms-3"><a className="link-dark" href="https://github.com/rameshwarTiwari1" target="_blank"><BsGithub style={{color:"#fff", fontSize:"22px"}}/></a></li>
       </ul>
         </div>
