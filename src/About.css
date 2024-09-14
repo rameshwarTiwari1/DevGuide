@@ -1,0 +1,28 @@
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+
+.routing{
+  padding-top: 110px;
+}
+  
+  .icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+  }
+  
+  .feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+  }
+  
+  .abouthover{
+    color: #111;
+  }
+.abouthover:hover{
+    color:#2ea44f;
+  }
